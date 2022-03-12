@@ -1,8 +1,11 @@
 body {
     flex: auto;
-    flex-direction: column;
+    margin-right: 5em;
+    margin-left: 5em;
+    font-family: "Montserrat", sans-serif;
 }
 
-h1 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
