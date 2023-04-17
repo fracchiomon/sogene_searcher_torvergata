@@ -1,249 +1,1531 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <row>
-    <id>1</id>
-    <subject>Chimica Organica</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>2</id>
-    <subject>Biologia Sviluppo</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>3</id>
-    <subject>Fisica</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>4</id>
-    <subject>Botanica</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>5</id>
-    <subject>Biochimica</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>6</id>
-    <subject>Genetica</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>7</id>
-    <subject>Statistica</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>8</id>
-    <subject>Ecologia</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>9</id>
-    <subject>Fisiologia Generale</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>10</id>
-    <subject>Fisiologia e Biotecnologie</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>11</id>
-    <subject>Virologia</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>12</id>
-    <subject>Diritto</subject>
-    <course>biotecnologie</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>13</id>
-    <subject>Chimica Organica 1</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>14</id>
-    <subject>Fisica 1</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>15</id>
-    <subject>Chimica Analitica</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>16</id>
-    <subject>Chimica Inorganica</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>17</id>
-    <subject>Chimica Analitica 2</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>18</id>
-    <subject>Fisica 2</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>19</id>
-    <subject>Chimica Fisica 1</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>20</id>
-    <subject>Biotecnologie</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>21</id>
-    <subject>Chimica Biologica</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>22</id>
-    <subject>Chimica Fisica 3</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>23</id>
-    <subject>Lab Chimica Analitica</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>24</id>
-    <subject>Lab Chimica Fisica</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>25</id>
-    <subject>Lab Chimica Organica</subject>
-    <course>chimica</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>26</id>
-    <subject>Chimica Organica 1</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>27</id>
-    <subject>Analisi 2</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>28</id>
-    <subject>Chimica Generale 2</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>29</id>
-    <subject>Chimica Organica 1</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>30</id>
-    <subject>Fisica 1</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>31</id>
-    <subject>Fisica 2</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>32</id>
-    <subject>Chimica Analitica 2</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>33</id>
-    <subject>Biotecnologie</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>34</id>
-    <subject>Lab Chimica Analitica</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>35</id>
-    <subject>Lab Chimica Fisica</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>36</id>
-    <subject>Lab Chimica Organica</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>37</id>
-    <subject>Chimica Fisica Superfici</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>38</id>
-    <subject>Matematica 1</subject>
-    <course>chimica applicata</course>
-    <semester>1</semester>
-  </row>
-  <row>
-    <id>39</id>
-    <subject>Analisi Matematica 2</subject>
-    <course>chimica applicata</course>
-    <semester>2</semester>
-  </row>
-  <row>
-    <id>40</id>
-    <subject>Chimica Strumentale per l&apos;Ambientale</subject>
-    <course>chimica applicata</course>
-    <semester>1</semester>
-  </row>
-  <row>
-    <id>41</id>
-    <subject>Chimica Analitica 1</subject>
-    <course>chimica applicata</course>
-    <semester>1</semester>
-  </row>
-</root>
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Francesco Maria Poerio</LastAuthor>
+  <Created>2023-04-17T11:36:53Z</Created>
+  <LastSaved>2023-04-17T11:35:02Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>18000</WindowHeight>
+  <WindowWidth>14280</WindowWidth>
+  <WindowTopX>14520</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s66">
+   <NumberFormat ss:Format="0"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="sogene_materie">
+  <Names>
+   <NamedRange ss:Name="sogene_materie" ss:RefersTo="=sogene_materie!R1C1:R149C4"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="194" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:StyleID="s66" ss:Width="40"/>
+   <Column ss:StyleID="s62" ss:Width="209"/>
+   <Column ss:StyleID="s62" ss:Width="104"/>
+   <Column ss:StyleID="s66" ss:Width="53"/>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">id</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">subject</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">course</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">semester</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Organica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Acquaponica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Alimentazione</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Animali Lab</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Applicazioni biostatistiche</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Applicazioni di Biochimica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biochimica mod 1</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biochimica mod 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biologia molecolare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">11</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biologia Sviluppo</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">12</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biotecnologie algali</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">13</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biotecnologie fluorimetriche</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">14</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biotecnologie Microbiche Marine</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biotecnologie nutrizione</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">16</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Botanica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">17</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Generale</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Citologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">19</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Citrometria</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">20</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Complementi bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">21</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Diritto</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">22</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Ecologia</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">23</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Economia</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">24</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Fisica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Fisica Applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">0</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">26</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Fisiologia e Biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">27</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Fisiologia Generale</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">28</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Fisiologia Vegetale</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">29</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Fondamenti ricerca clinica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">30</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Genetica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">31</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Genetica base</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">32</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Gestione qualità</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">33</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Immunologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">34</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">ingegnerizzazioni cellule animali</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">35</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Inglese</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">36</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Inglese biologi</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">37</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Matematica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">38</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Meccanismi di comunicazioni</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">39</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Microbiologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">40</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Nutraceutica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">41</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Proteine</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">42</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Sicurezza</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Statistica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Storia biologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">45</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Sviluppo farmaco</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">46</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Virologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">47</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Statistica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">48</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biologia sintetica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">49</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">50</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Bioinformatica Strutturale</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">51</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Medicina traslazionale</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">52</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Genomica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">53</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Genetica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">0</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">54</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biochimica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">55</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biologia molecolare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">56</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biologia molecolare mod 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">57</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica generale</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">58</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Fondamenti biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">59</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Programmazione</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">60</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Applicazioni web</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">61</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Genomica statistica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">62</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Proteomica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">63</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Basi dati</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">64</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Linux</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">65</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Bioinformatica base</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">66</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Fondamenti bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">67</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Genomica computazionale</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">68</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Strutture dati</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">69</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Proteogenomica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">70</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Network</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">71</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Disciplina legale</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">72</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Metodo apprendimento automatico</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">bioinformatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">73</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Struttura macromolecole</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">74</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biochimica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">75</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biochimica 2 </Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">76</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Genomica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">77</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Patologia generale</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Metodi informatici</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">79</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Inglese</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">80</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Neurobiologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">81</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Interazioni uomo-ambiente</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">82</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biochimica molecolare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">83</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Genetica umana</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">84</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Parassitologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">85</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biologia sistemi</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">86</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Differenziamento</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">87</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Virologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">88</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Espressione genica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">89</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Genetica molecolare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">90</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Fisica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">91</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Metodologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">92</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Diagnostica molecolare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">93</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Neurologia Comparata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">94</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Batteriologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">95</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Enzimi</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">96</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Epidemiologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">97</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Neurobiologia emozioni</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">98</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Rigenerazione</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">99</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Degradazione Proteica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">100</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Metodologie Virologia</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">101</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Big Data</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">102</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biologia molecolare neurologica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">103</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Colture cellulari</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">104</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Sviluppo sostenibile</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">105</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Fecondazione</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">106</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Plant drugs</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">107</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Controllo stabilità genomica tumori</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">108</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Metabolismo sistema nervoso</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">biologia cellulare</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">109</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Organica 1</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">110</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Analisi 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">111</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Generale 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">112</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Organica 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">113</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Fisica 1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">114</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Fisica 2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">115</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Analitica 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">116</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">117</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Lab Chimica Analitica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">118</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Lab Chimica Fisica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">119</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Lab Chimica Organica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">120</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Fisica Superfici</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">121</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Matematica 1</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">122</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Analisi Matematica 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">123</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Strumentale per l'Ambientale</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">124</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Analitica 1</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">125</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Elettrochimica dei Materiali</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">126</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biochimica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">127</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Fisica 1</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">128</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Fisica 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">129</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Generale e Inorganica 1</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">130</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Generale e Inorganica 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">131</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Inglese</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">132</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Informatica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">133</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Organica 3</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">134</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica dei Colloidi</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">135</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">136</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Tecnologie beni culturali</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica applicata</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">137</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Analisi Matematica 1</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">138</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Analisi Matematica 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">139</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Biotecnologie</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">140</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Analitica 1</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">141</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Analitica 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">142</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Analitica 3</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">143</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Biologica</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">144</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Fisica 1</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">145</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Fisica 2</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">146</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Fisica 3</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">147</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Generale</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">1</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">148</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">Chimica Inorganica 1</Data><NamedCell
+      ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="String">chimica</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="sogene_materie"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica Inorganica 2</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica Organica 1</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">151</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica Organica 2</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">152</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica Organica 3</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">153</Data></Cell>
+    <Cell><Data ss:Type="String">Fisica 1</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">154</Data></Cell>
+    <Cell><Data ss:Type="String">Fisica 2</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">155</Data></Cell>
+    <Cell><Data ss:Type="String">Fondamenti Chimica Analitica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">156</Data></Cell>
+    <Cell><Data ss:Type="String">Inglese</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">157</Data></Cell>
+    <Cell><Data ss:Type="String">Inglese Avanzato</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">158</Data></Cell>
+    <Cell><Data ss:Type="String">Lab Chimica Analitica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">159</Data></Cell>
+    <Cell><Data ss:Type="String">Lab Chimica Fisica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">160</Data></Cell>
+    <Cell><Data ss:Type="String">Lab Chimica Organica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">161</Data></Cell>
+    <Cell><Data ss:Type="String">Lab Chimica Generale</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">162</Data></Cell>
+    <Cell><Data ss:Type="String">Lab Chimica Tecnologie</Data></Cell>
+    <Cell><Data ss:Type="String">chimica</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">163</Data></Cell>
+    <Cell><Data ss:Type="String">Biochimica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">164</Data></Cell>
+    <Cell><Data ss:Type="String">Bioinformatica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">165</Data></Cell>
+    <Cell><Data ss:Type="String">Biomateriali</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">166</Data></Cell>
+    <Cell><Data ss:Type="String">Biopolimeri</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">167</Data></Cell>
+    <Cell><Data ss:Type="String">Catalisi</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica Analitica Applicata</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">169</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica Analitica Clinica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">170</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica computazionale</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">171</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica materiali</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">172</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica stato solido</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">173</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica alimenti</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">174</Data></Cell>
+    <Cell><Data ss:Type="String">Chemometria</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">175</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica elettroanalitica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">176</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica farmaceutica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">177</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica organica 4</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">178</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica organica 5</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">179</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica fisica biologica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">180</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica Inorganica avanzata</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">181</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica macromolecolare</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">182</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica sostenibile</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">183</Data></Cell>
+    <Cell><Data ss:Type="String">Chimica Teorica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">184</Data></Cell>
+    <Cell><Data ss:Type="String">Didattica chimica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">185</Data></Cell>
+    <Cell><Data ss:Type="String">Enzimologia</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">186</Data></Cell>
+    <Cell><Data ss:Type="String">Materiali Nanostrutturati</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">187</Data></Cell>
+    <Cell><Data ss:Type="String">Materiali molecolari</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">188</Data></Cell>
+    <Cell><Data ss:Type="String">Metodi matematici chimica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell><Data ss:Type="String">Nanoscienze</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">190</Data></Cell>
+    <Cell><Data ss:Type="String">Sintesi asimmetrica</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">191</Data></Cell>
+    <Cell><Data ss:Type="String">Sistemi non covalenti</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">192</Data></Cell>
+    <Cell><Data ss:Type="String">Spettroscopia molecolare</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">193</Data></Cell>
+    <Cell><Data ss:Type="String">Spettroscopia NMR</Data></Cell>
+    <Cell><Data ss:Type="String">chimica lm</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <TopRowVisible>172</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>178</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <QueryTable xmlns="urn:schemas-microsoft-com:office:excel">
+   <Name>sogene_materie</Name>
+   <AutoFormatFont/>
+   <AutoFormatPattern/>
+   <QuerySource>
+    <QueryType>Text</QueryType>
+    <TextWizardSettings>
+     <Name
+      x:HRef="/Users/fracchiomon/Documents/Development/sogene_searcher_torvergata/sogene_materie.csv"/>
+     <Decimal>,</Decimal>
+     <ThousandSeparator>.</ThousandSeparator>
+     <TrailingMinusNumbers/>
+     <FormatSettings>
+      <FieldType>AutoFormat</FieldType>
+      <FieldType>AutoFormat</FieldType>
+      <FieldType>AutoFormat</FieldType>
+      <FieldType>AutoFormat</FieldType>
+     </FormatSettings>
+     <Delimiters>
+      <Comma/>
+      <TextQualifier>None</TextQualifier>
+     </Delimiters>
+    </TextWizardSettings>
+    <VersionLastEdit>8</VersionLastEdit>
+    <VersionLastRefresh>8</VersionLastRefresh>
+   </QuerySource>
+  </QueryTable>
+ </Worksheet>
+</Workbook>
