@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>1</id>
+    <subject>Chimica Organica</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>2</id>
+    <subject>Biologia Sviluppo</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>3</id>
+    <subject>Fisica</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>4</id>
+    <subject>Botanica</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>5</id>
+    <subject>Biochimica</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>6</id>
+    <subject>Genetica</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>7</id>
+    <subject>Statistica</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>8</id>
+    <subject>Ecologia</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>9</id>
+    <subject>Fisiologia Generale</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>10</id>
+    <subject>Fisiologia e Biotecnologie</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>11</id>
+    <subject>Virologia</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>12</id>
+    <subject>Diritto</subject>
+    <course>biotecnologie</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>13</id>
+    <subject>Chimica Organica 1</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>14</id>
+    <subject>Fisica 1</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>15</id>
+    <subject>Chimica Analitica</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>16</id>
+    <subject>Chimica Inorganica</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>17</id>
+    <subject>Chimica Analitica 2</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>18</id>
+    <subject>Fisica 2</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>19</id>
+    <subject>Chimica Fisica 1</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>20</id>
+    <subject>Biotecnologie</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>21</id>
+    <subject>Chimica Biologica</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>22</id>
+    <subject>Chimica Fisica 3</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>23</id>
+    <subject>Lab Chimica Analitica</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>24</id>
+    <subject>Lab Chimica Fisica</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>25</id>
+    <subject>Lab Chimica Organica</subject>
+    <course>chimica</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>26</id>
+    <subject>Chimica Organica 1</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>27</id>
+    <subject>Analisi 2</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>28</id>
+    <subject>Chimica Generale 2</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>29</id>
+    <subject>Chimica Organica 1</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>30</id>
+    <subject>Fisica 1</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>31</id>
+    <subject>Fisica 2</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>32</id>
+    <subject>Chimica Analitica 2</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>33</id>
+    <subject>Biotecnologie</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>34</id>
+    <subject>Lab Chimica Analitica</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>35</id>
+    <subject>Lab Chimica Fisica</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>36</id>
+    <subject>Lab Chimica Organica</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>37</id>
+    <subject>Chimica Fisica Superfici</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>38</id>
+    <subject>Matematica 1</subject>
+    <course>chimica applicata</course>
+    <semester>1</semester>
+  </row>
+  <row>
+    <id>39</id>
+    <subject>Analisi Matematica 2</subject>
+    <course>chimica applicata</course>
+    <semester>2</semester>
+  </row>
+  <row>
+    <id>40</id>
+    <subject>Chimica Strumentale per l&apos;Ambientale</subject>
+    <course>chimica applicata</course>
+    <semester>1</semester>
+  </row>
+  <row>
+    <id>41</id>
+    <subject>Chimica Analitica 1</subject>
+    <course>chimica applicata</course>
+    <semester>1</semester>
+  </row>
+</root>
