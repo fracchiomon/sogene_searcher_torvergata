@@ -1,39 +1,194 @@
-id,subject,course,semester
-1,"Chimica Organica","biotecnologie",2
-2,"Biologia Sviluppo","biotecnologie",2
-3,"Fisica","biotecnologie",2
-4,"Botanica","biotecnologie",2
-5,"Biochimica","biotecnologie",2
-6,"Genetica","biotecnologie",2
-7,"Statistica","biotecnologie",2
-8,"Ecologia","biotecnologie",2
-9,"Fisiologia Generale","biotecnologie",2
-10,"Fisiologia e Biotecnologie","biotecnologie",2
-11,"Virologia","biotecnologie",2
-12,"Diritto","biotecnologie",2
-13,"Chimica Organica 1","chimica",2
-14,"Fisica 1","chimica",2
-15,"Chimica Analitica","chimica",2
-16,"Chimica Inorganica","chimica",2
-17,"Chimica Analitica 2","chimica",2
-18,"Fisica 2","chimica",2
-19,"Chimica Fisica 1","chimica",2
-20,"Biotecnologie","chimica",2
-21,"Chimica Biologica","chimica",2
-22,"Chimica Fisica 3","chimica",2
-23,"Lab Chimica Analitica","chimica",2
-24,"Lab Chimica Fisica","chimica",2
-25,"Lab Chimica Organica","chimica",2
-26,"Chimica Organica 1","chimica applicata",2
-27,"Analisi 2","chimica applicata",2
-28,"Chimica Generale 2","chimica applicata",2
-29,"Chimica Organica 1","chimica applicata",2
-30,"Fisica 1","chimica applicata",2
-31,"Fisica 2","chimica applicata,2
-32,"Chimica Analitica 2","chimica applicata",2
-33,"Biotecnologie","chimica applicata",2
-34,"Lab Chimica Analitica","chimica applicata",2
-35,"Lab Chimica Fisica","chimica applicata",2
-36,"Lab Chimica Organica","chimica applicata",2
-37,"Chimica Fisica Superfici","chimica applicata",2
-
+﻿id;subject;course;semester
+1;Chimica Organica;biotecnologie;2
+2;Acquaponica;biotecnologie;1
+3;Alimentazione;biotecnologie;1
+4;Animali Lab;biotecnologie;2
+5;Applicazioni biostatistiche;biotecnologie;1
+6;Applicazioni di Biochimica;biotecnologie;1
+7;Biochimica mod 1;biotecnologie;1
+8;Biochimica mod 2;biotecnologie;2
+9;Bioinformatica;biotecnologie;1
+10;Biologia molecolare;biotecnologie;1
+11;Biologia Sviluppo;biotecnologie;2
+12;Biotecnologie algali;biotecnologie;1
+13;Biotecnologie fluorimetriche;biotecnologie;1
+14;Biotecnologie Microbiche Marine;biotecnologie;2
+15;Biotecnologie nutrizione;biotecnologie;2
+16;Botanica;biotecnologie;2
+17;Chimica Generale;biotecnologie;1
+18;Citologia;biotecnologie;1
+19;Citrometria;biotecnologie;2
+20;Complementi bioinformatica;biotecnologie;1
+21;Diritto;biotecnologie;2
+22;Ecologia;biotecnologie;2
+23;Economia;biotecnologie;1
+24;Fisica;biotecnologie;2
+25;Fisica Applicata;biotecnologie;0
+26;Fisiologia e Biotecnologie;biotecnologie;2
+27;Fisiologia Generale;biotecnologie;2
+28;Fisiologia Vegetale;biotecnologie;1
+29;Fondamenti ricerca clinica;biotecnologie;1
+30;Genetica;biotecnologie;2
+31;Genetica base;biotecnologie;1
+32;Gestione qualità;biotecnologie;1
+33;Immunologia;biotecnologie;1
+34;ingegnerizzazioni cellule animali;biotecnologie;2
+35;Inglese;biotecnologie;1
+36;Inglese biologi;biotecnologie;2
+37;Matematica;biotecnologie;1
+38;Meccanismi di comunicazioni;biotecnologie;2
+39;Microbiologia;biotecnologie;1
+40;Nutraceutica;biotecnologie;2
+41;Proteine;biotecnologie;2
+42;Sicurezza;biotecnologie;2
+43;Statistica;biotecnologie;2
+44;Storia biologia;biotecnologie;2
+45;Sviluppo farmaco;biotecnologie;2
+46;Virologia;biotecnologie;2
+47;Statistica;bioinformatica;1
+48;Biologia sintetica;bioinformatica;2
+49;Bioinformatica;bioinformatica;2
+50;Bioinformatica Strutturale;bioinformatica;2
+51;Medicina traslazionale;bioinformatica;2
+52;Genomica;bioinformatica;1
+53;Genetica;bioinformatica;0
+54;Biochimica;bioinformatica;1
+55;Biologia molecolare;bioinformatica;1
+56;Biologia molecolare mod 2;bioinformatica;2
+57;Chimica generale;bioinformatica;1
+58;Fondamenti biologia cellulare;bioinformatica;2
+59;Programmazione;bioinformatica;1
+60;Applicazioni web;bioinformatica;1
+61;Genomica statistica;bioinformatica;2
+62;Proteomica;bioinformatica;2
+63;Basi dati;bioinformatica;1
+64;Linux;bioinformatica;1
+65;Bioinformatica base;bioinformatica;1
+66;Fondamenti bioinformatica;bioinformatica;1
+67;Genomica computazionale;bioinformatica;1
+68;Strutture dati;bioinformatica;1
+69;Proteogenomica;bioinformatica;1
+70;Network;bioinformatica;2
+71;Disciplina legale;bioinformatica;1
+72;Metodo apprendimento automatico;bioinformatica;2
+73;Struttura macromolecole;biologia cellulare;1
+74;Biochimica;biologia cellulare;1
+75;Biochimica 2 ;biologia cellulare;1
+76;Genomica;biologia cellulare;2
+77;Patologia generale;biologia cellulare;2
+78;Metodi informatici;biologia cellulare;2
+79;Inglese;biologia cellulare;2
+80;Neurobiologia;biologia cellulare;1
+81;Interazioni uomo-ambiente;biologia cellulare;1
+82;Biochimica molecolare;biologia cellulare;2
+83;Genetica umana;biologia cellulare;2
+84;Parassitologia;biologia cellulare;2
+85;Biologia sistemi;biologia cellulare;2
+86;Differenziamento;biologia cellulare;1
+87;Virologia;biologia cellulare;1
+88;Espressione genica;biologia cellulare;2
+89;Genetica molecolare;biologia cellulare;2
+90;Chimica Fisica;biologia cellulare;2
+91;Metodologia;biologia cellulare;2
+92;Diagnostica molecolare;biologia cellulare;1
+93;Neurologia Comparata;biologia cellulare;1
+94;Batteriologia;biologia cellulare;2
+95;Enzimi;biologia cellulare;2
+96;Epidemiologia;biologia cellulare;1
+97;Neurobiologia emozioni;biologia cellulare;2
+98;Rigenerazione;biologia cellulare;2
+99;Degradazione Proteica;biologia cellulare;2
+100;Metodologie Virologia;biologia cellulare;2
+101;Big Data;biologia cellulare;2
+102;Biologia molecolare neurologica;biologia cellulare;2
+103;Colture cellulari;biologia cellulare;2
+104;Sviluppo sostenibile;biologia cellulare;2
+105;Fecondazione;biologia cellulare;2
+106;Plant drugs;biologia cellulare;2
+107;Controllo stabilità genomica tumori;biologia cellulare;2
+108;Metabolismo sistema nervoso;biologia cellulare;2
+109;Chimica Organica 1;chimica applicata;2
+110;Analisi 2;chimica applicata;2
+111;Chimica Generale 2;chimica applicata;2
+112;Chimica Organica 2;chimica applicata;1
+113;Fisica 1;chimica applicata;2
+114;Fisica 2;chimica applicata;2
+115;Chimica Analitica 2;chimica applicata;2
+116;Biotecnologie;chimica applicata;2
+117;Lab Chimica Analitica;chimica applicata;2
+118;Lab Chimica Fisica;chimica applicata;2
+119;Lab Chimica Organica;chimica applicata;2
+120;Chimica Fisica Superfici;chimica applicata;2
+121;Matematica 1;chimica applicata;1
+122;Analisi Matematica 2;chimica applicata;2
+123;Chimica Strumentale per l'Ambientale;chimica applicata;1
+124;Chimica Analitica 1;chimica applicata;1
+125;Elettrochimica dei Materiali;chimica applicata;1
+126;Biochimica;chimica applicata;2
+127;Chimica Fisica 1;chimica applicata;1
+128;Chimica Fisica 2;chimica applicata;1
+129;Chimica Generale e Inorganica 1;chimica applicata;1
+130;Chimica Generale e Inorganica 2;chimica applicata;2
+131;Inglese;chimica applicata;1
+132;Informatica;chimica applicata;2
+133;Chimica Organica 3;chimica applicata;1
+134;Chimica dei Colloidi;chimica applicata;1
+135;Biotecnologie;chimica applicata;2
+136;Tecnologie beni culturali;chimica applicata;2
+137;Analisi Matematica 1;chimica;1
+138;Analisi Matematica 2;chimica;1
+139;Biotecnologie;chimica;2
+140;Chimica Analitica 1;chimica;2
+141;Chimica Analitica 2;chimica;2
+142;Chimica Analitica 3;chimica;1
+143;Chimica Biologica;chimica;2
+144;Chimica Fisica 1;chimica;2
+145;Chimica Fisica 2;chimica;2
+146;Chimica Fisica 3;chimica;2
+147;Chimica Generale;chimica;1
+148;Chimica Inorganica 1;chimica;2
+149;Chimica Inorganica 2;chimica;1
+150;Chimica Organica 1;chimica;2
+151;Chimica Organica 2;chimica;1
+152;Chimica Organica 3;chimica;1
+153;Fisica 1;chimica;2
+154;Fisica 2;chimica;2
+155;Fondamenti Chimica Analitica;chimica;2
+156;Inglese;chimica;1
+157;Inglese Avanzato;chimica;2
+158;Lab Chimica Analitica;chimica;2
+159;Lab Chimica Fisica;chimica;2
+160;Lab Chimica Organica;chimica;2
+161;Lab Chimica Generale;chimica;2
+162;Lab Chimica Tecnologie;chimica;2
+163;Biochimica;chimica lm;2
+164;Bioinformatica;chimica lm;1
+165;Biomateriali;chimica lm;2
+166;Biopolimeri;chimica lm;2
+167;Catalisi;chimica lm;1
+168;Chimica Analitica Applicata;chimica lm;1
+169;Chimica Analitica Clinica;chimica lm;1
+170;Chimica computazionale;chimica lm;2
+171;Chimica materiali;chimica lm;2
+172;Chimica stato solido;chimica lm;1
+173;Chimica alimenti;chimica lm;2
+174;Chemometria;chimica lm;2
+175;Chimica elettroanalitica;chimica lm;2
+176;Chimica farmaceutica;chimica lm;1
+177;Chimica organica 4;chimica lm;2
+178;Chimica organica 5;chimica lm;2
+179;Chimica fisica biologica;chimica lm;2
+180;Chimica Inorganica avanzata;chimica lm;1
+181;Chimica macromolecolare;chimica lm;2
+182;Chimica sostenibile;chimica lm;1
+183;Chimica Teorica;chimica lm;1
+184;Didattica chimica;chimica lm;1
+185;Enzimologia;chimica lm;1
+186;Materiali Nanostrutturati;chimica lm;1
+187;Materiali molecolari;chimica lm;1
+188;Metodi matematici chimica;chimica lm;1
+189;Nanoscienze;chimica lm;1
+190;Sintesi asimmetrica;chimica lm;1
+191;Sistemi non covalenti;chimica lm;2
+192;Spettroscopia molecolare;chimica lm;1
+193;Spettroscopia NMR;chimica lm;2
